@@ -1,2 +1,6 @@
 day la file test week3.txt
+<<<<<<< HEAD
 Git demo week3 ma thoi
+=======
+Git demo week3 1
+>>>>>>> main
