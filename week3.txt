@@ -1,2 +1,2 @@
 day la file test week3.txt
-Git demo week3
+Git demo week3 ma thoi
